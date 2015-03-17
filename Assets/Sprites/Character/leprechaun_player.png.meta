@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 6196a1ad70052204b9798d5949464243
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leprechaun_player_walk_0
+    21300002: leprechaun_player_walk_1
+    21300004: leprechaun_player_walk_2
+    21300006: leprechaun_player_walk_3
+    21300008: leprechaun_player_walk_4
+    21300010: leprechaun_player_walk_5
+    21300012: leprechaun_player_walk_6
+    21300014: leprechaun_player_walk_7
+    21300016: leprechaun_player_walk_8
+    21300018: leprechaun_player_0
+    21300020: leprechaun_player_1
+    21300022: leprechaun_player_2
+    21300024: leprechaun_player_3
+    21300026: leprechaun_player_4
+    21300028: leprechaun_player_5
+    21300030: leprechaun_player_6
+    21300032: leprechaun_player_7
+    21300034: leprechaun_player_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leprechaun_player_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 76
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 85
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5
+        width: 76
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 5
+        width: 76
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2
+        width: 90
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2
+        width: 97
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_6
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2
+        width: 86
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_7
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2
+        width: 77
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leprechaun_player_8
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 2
+        width: 76
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

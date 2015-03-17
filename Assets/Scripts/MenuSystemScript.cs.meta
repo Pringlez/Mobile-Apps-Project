@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 00245bc224d02984bbe43839a607fb92
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundTexture: {fileID: 2800000, guid: b52b0eac45ce31342ab1d125c38a2519, type: 3}
+  - buttonSound: {fileID: 8300000, guid: 66bef6fbf16ca184695531f83b8f899a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

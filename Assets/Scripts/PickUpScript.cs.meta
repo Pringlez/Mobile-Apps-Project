@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 17dbd137fd0236a4a870bca2aec6295b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinEffect: {fileID: 498056, guid: 591ea7c1f4d1f1e46a6afbf212c2f8e6, type: 2}
+  - heartEffect: {fileID: 437374, guid: 8682fd72efe9f7241845b35eb82d2161, type: 2}
+  - explosionEffect: {fileID: 465980, guid: 2830dcd9f972638449c8876ff1d8ded9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
